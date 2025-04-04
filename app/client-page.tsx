@@ -33,7 +33,7 @@ export default function ClientPage() {
             <header className="backdrop-blur-md bg-black/20 border-b border-white/10">
               <div className="container mx-auto px-4 py-3 flex justify-between items-center">
                 <div className="text-white font-bold text-xl">
-                  Simple Storage dApp
+                  Denso.fi
                 </div>
                 <WalletConnectButton />
               </div>
@@ -43,7 +43,7 @@ export default function ClientPage() {
               <div className="max-w-4xl mx-auto">
                 <div className="text-center mb-12">
                   <h1 className="text-4xl font-bold text-white mb-6">
-                    Ethereum Simple Storage
+                    Denso.fi
                   </h1>
                   <p className="text-gray-300 max-w-2xl mx-auto">
                     A simple decentralized application that interacts with a storage contract on the Sepolia testnet. 
